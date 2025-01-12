@@ -1,6 +1,6 @@
 # cryptain.xyz
 
-An advanced algorithmic trading system for Solana tokens with community-driven signals, automated execution, and profit distribution.
+An AI-powered crypto hedge fund and terminal that combines blockchain analysis, social media analysis and community voting with artificial intelligence to make trading decisions on the Solana blockchain.
 
 ## System Architecture
 
